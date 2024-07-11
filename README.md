@@ -17,6 +17,10 @@ This is a simple TodoList web application built with Node.js, Express, EJS, and 
 - **MongoDB**: NoSQL database
 - **Mongoose**: MongoDB object modeling for Node.js
 
+## View Demo
+
+Check out the [live demo](https://vercel.live/link/to-do-list-v2-5t066i42t-mohammed-alazamis-projects.vercel.app?via=deployment-domains-list-commit) to see the final look of the application.
+
 ## Getting Started
 
 To run this project locally, follow these steps:
@@ -40,10 +44,6 @@ npm start
 
 Open your browser and visit http://localhost:3000 to view the application.
 
-## View Demo
-
-Check out the [live demo](https://vercel.live/link/to-do-list-v2-5t066i42t-mohammed-alazamis-projects.vercel.app?via=deployment-domains-list-commit) to see the final look of the application.
-
-# Contributing
+## Contributing
 Contributions are welcome! Fork the repository, make your changes, and submit a pull request.
 
