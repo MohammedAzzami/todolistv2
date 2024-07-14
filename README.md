@@ -19,7 +19,7 @@ This is a simple TodoList web application built with Node.js, Express, EJS, and 
 
 ## View Demo
 
-Check out the [live demo]([https://vercel.live/link/to-do-list-v2-5t066i42t-mohammed-alazamis-projects.vercel.app?via=deployment-domains-list-commit](https://to-do-list-v2-moh-azamy-hotmailcom-mohammed-alazamis-projects.vercel.app?_vercel_share=1s536TDORb07kV91QUrHRLdZVyYRarSv)) to see the final look of the application.
+Check out the [live demo](https://to-do-list-v2-moh-azamy-hotmailcom-mohammed-alazamis-projects.vercel.app?_vercel_share=1s536TDORb07kV91QUrHRLdZVyYRarSv) to see the final look of the application.
 
 **Note**: Access to view and interact with the live demo requires logging into Vercel. If you don't have a Vercel account, you'll need to create one to access the application.
 
